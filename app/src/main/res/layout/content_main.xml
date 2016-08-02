@@ -22,8 +22,8 @@
         android:layout_height="wrap_content"
         android:text="Hello again"
         android:id="@+id/textView"
-        android:layout_below="@+id/textView2"
         android:layout_toRightOf="@+id/textView2"
+        android:layout_below="@+id/textView2"
         android:layout_toEndOf="@+id/textView2"
         android:layout_marginTop="155dp" />
 </RelativeLayout>
